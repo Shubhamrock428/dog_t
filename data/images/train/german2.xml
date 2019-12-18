@@ -2,7 +2,7 @@
 <annotation>
     <folder>images</folder>
     <filename>german2.png</filename>
-    <path>images/german2.png</path>
+    <path>german2.png</path>
     <source>
         <database>Unknown</database>
     </source>
